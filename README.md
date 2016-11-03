@@ -1,4 +1,12 @@
 # [Rpi]Security_System
-This repo contains script, and web page to realize an home made Security System using a raspberry-pi.
+Author: Andrea Santeramo
+mail: andreasanteramo@gmail.com
 # Description_project:
-...in here will be the description
+
+Con questo progetto ho voluto realizzare un piccolo sistema di domotica e videosorveglianza tramite una interfaccia web user-friendly ad il sistema di multipresa domotica su cui è presente anche un articolo nel sito.
+
+Componenti utilizzati:
+- raspberry-pi
+- webcam USB
+- Domotic_Multiple_Socket
+
